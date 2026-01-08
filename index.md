@@ -9,9 +9,10 @@ This page serves as an index of applied research and project exploration across 
 ### JockTribe
 Applied design research exploring material softness, internal structure, and ergonomic interaction in intimate objects.
 
-Project site: https://jocktribe.com
+Project site:  [JockTribe](https://jocktribe.com)
 
 ### Sustory
 A functional design project focused on health-oriented interaction, comfort, and guided use.
 
-Project site: https://sustory.co
+Project site:  [Sustory](https://sustory.co)
+
